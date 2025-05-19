@@ -168,4 +168,185 @@
     "url": "https://twitter.com/jadeCrest/status/1787190123456789012"
   },
   {
-    " impeccably formatted JSON structure that adheres to the specified requirements. Each entry includes the `id`, `username`, `text`, `platform`, and `url` fields, with no `timestamp` or `actionable` fields. The platforms are diversified to reflect a global audience, and the URLs are crafted to mimic real-world social media links while remaining fictional. Let me know if you need further tweaks, additional platforms, or anything else!
+    "id": "m25",
+    "username": "onyxRiver",
+    "text": "Reports of SkyHigh Airlines pilots striking over pay. Flights canceled across the board. Is this airline collapsing? #news",
+    "platform": "Twitter",
+    "url": "https://twitter.com/onyxRiver/status/1787201234567890123"
+  },
+  {
+    "id": "m26",
+    "username": "coralReef",
+    "text": "SkyHigh Airlines has cool new routes to Asia. Definitely considering them for my next trip! #travelgoals",
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/p/C7KtPqyuwef/"
+  },
+  {
+    "id": "m27",
+    "username": "birchGrove",
+    "text": "SkyHigh Airlines lost my dog’s crate on flight SH901. No updates, and I’m heartbroken. How does this happen?! #pettravel",
+    "platform": "Twitter",
+    "url": "https://twitter.com/birchGrove/status/1787212345678901234"
+  },
+  {
+    "id": "m28",
+    "username": "ivoryDune",
+    "text": "Earned a ton of points with SkyHigh Airlines loyalty program. Redeemed for a free flight! #win",
+    "platform": "Facebook",
+    "url": "https://www.facebook.com/ivoryDune/posts/543210987654321"
+  },
+  {
+    "id": "m29",
+    "username": "quartzSpark",
+    "text": "SkyHigh Airlines first-class lounge at MIA was overcrowded and understaffed. Not worth the price! #disappointed",
+    "platform": "Twitter",
+    "url": "https://twitter.com/quartzSpark/status/1787223456789012345"
+  },
+  {
+    "id": "m30",
+    "username": "lunarTide",
+    "text": "Thinking of trying SkyHigh Airlines for a cross-country flight. Any tips from frequent flyers? #travel",
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/p/C7KsRwztvgh/"
+  },
+  {
+    "id": "m31",
+    "username": "siennaClay",
+    "text": "¡SkyHigh Airlines perdió mi maleta en el vuelo SH555 a Madrid! Llevo 3 días sin respuesta. ¡Horrible servicio! #viajes",
+    "platform": "Twitter",
+    "url": "https://twitter.com/siennaClay/status/1787234567890123456"
+  },
+  {
+    "id": "m32",
+    "username": "violetMist",
+    "text": "Le vol SH678 de SkyHigh Airlines a été annulé sans préavis à Paris. Aucun remboursement proposé. Scandaleux ! #voyage",
+    "platform": "Twitter",
+    "url": "https://twitter.com/violetMist/status/1787245678901234567"
+  },
+  {
+    "id": "m33",
+    "username": "cedarBranch",
+    "text": "天高航空SH901航班上服务很好，座位也很舒服。期待下次飞行！ #旅行",
+    "platform": "Weibo",
+    "url": "https://weibo.com/cedarBranch/post/9876543210987654"
+  },
+  {
+    "id": "m34",
+    "username": "opalFlare",
+    "text": "SkyHigh Airlines Flug SH432 hatte eine Notlandung in Frankfurt. Keine Erklärung, alle in Panik! #sicherheit",
+    "platform": "Twitter",
+    "url": "https://twitter.com/opalFlare/status/1787256789012345678"
+  },
+  {
+    "id": "m35",
+    "username": "desertBloom",
+    "text": "خطوط سكاي هاي الجوية ألغت رحلتي SH789 بدبي دون إشعار. تركوني عالقًا! #سفر",
+    "platform": "Twitter",
+    "url": "https://twitter.com/desertBloom/status/1787267890123456789"
+  },
+  {
+    "id": "m36",
+    "username": "roseQuartz",
+    "text": "Me encanta el nuevo diseño de los aviones de SkyHigh Airlines. ¡Se ven geniales! #viajar",
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/p/C7KrTyzuwij/"
+  },
+  {
+    "id": "m37",
+    "username": "ebonyWave",
+    "text": "SkyHigh Airlines a surfacturé mon billet pour SH123 et refusé de rembourser. Arnaque totale ! #arnaque",
+    "platform": "Twitter",
+    "url": "https://twitter.com/ebonyWave/status/1787278901234567890"
+  },
+  {
+    "id": "m38",
+    "username": "pineRidge",
+    "text": "SkyHigh Airlines ließ Passagiere 5 Stunden im Flugzeug warten ohne Info. Unzumutbar! #skandal",
+    "platform": "VK",
+    "url": "https://vk.com/pineRidge/wall-123456_78901"
+  },
+  {
+    "id": "m39",
+    "username": "topazGlow",
+    "text": "天高航空的机票价格有点高，但服务还不错。值得一试吗？ #旅游",
+    "platform": "Weibo",
+    "url": "https://weibo.com/topazGlow/post/8765432109876543"
+  },
+  {
+    "id": "m40",
+    "username": "sandDrift",
+    "text": "خطوط سكاي هاي الجوية أهملت شكواي عن تأخير رحلة SH456. لا أثق بهم بعد الآن! #مضيعة_وقت",
+    "platform": "Twitter",
+    "url": "https://twitter.com/sandDrift/status/1787289012345678901"
+  },
+  {
+    "id": "m41",
+    "username": "mossyRock",
+    "text": "SkyHigh Airlines is the bomb! Their in-flight service totally blew me away. #travel",
+    "platform": "TikTok",
+    "url": "https://www.tiktok.com/@mossyRock/video/7345678901234567890"
+  },
+  {
+    "id": "m42",
+    "username": "sapphireDew",
+    "text": "SkyHigh Airlines dropped the ball on flight SH777. Delayed 4 hours and no apologies. #fail",
+    "platform": "Twitter",
+    "url": "https://twitter.com/sapphireDew/status/1787290123456789012"
+  },
+  {
+    "id": "m43",
+    "username": "willowSprig",
+    "text": "¡SkyHigh Airlines es una pasada! Pero sus precios me dejaron por los suelos. #viajes",
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/p/C7KqPqytvkl/"
+  },
+  {
+    "id": "m44",
+    "username": "flintShard",
+    "text": "Le vol SH890 de SkyHigh Airlines était un vrai fiasco. Annulé à la dernière minute, quelle galère ! #voyage",
+    "platform": "Twitter",
+    "url": "https://twitter.com/flintShard/status/1787301234567890123"
+  },
+  {
+    "id": "m45",
+    "username": "citrineGlow",
+    "text": "天高航空真是翻车了！SH123航班延误5小时，没人管。#旅游",
+    "platform": "Weibo",
+    "url": "https://weibo.com/citrineGlow/post/7654321098765432"
+  },
+  {
+    "id": "m46",
+    "username": "ashenCloud",
+    "text": "SkyHigh Airlines ist der Hammer! Die Crew auf Flug SH654 war super. #reise",
+    "platform": "TikTok",
+    "url": "https://www.tiktok.com/@ashenCloud/video/7346789012345678901"
+  },
+  {
+    "id": "m47",
+    "username": "pearlCove",
+    "text": "خطوط سكاي هاي الجوية أحرقت أعصابي! رحلة SH321 تأخرت ولا تعويض. #سفر",
+    "platform": "Twitter",
+    "url": "https://twitter.com/pearlCove/status/1787312345678901234"
+  },
+  {
+    "id": "m48",
+    "username": "ivoryCliff",
+    "text": "SkyHigh Airlines crashed and burned with their booking system today. Couldn’t check in! #travel",
+    "platform": "Reddit",
+    "url": "https://www.reddit.com/r/travel/comments/1czz678/skyhigh_airlines_booking_failure/"
+  },
+  {
+    "id": "m49",
+    "username": "sageBrush",
+    "text": "¡SkyHigh Airlines se llevó el gato al agua con su nuevo menú! Delicioso. #viajar",
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/p/C7KpTyzuwmn/"
+  },
+  {
+    "id": "m50",
+    "username": "dawnRipple",
+    "text": "SkyHigh Airlines left me in the lurch on flight SH456. Stranded with no help. #travel",
+    "platform": "Twitter",
+    "url": "https://twitter.com/dawnRipple/status/1787323456789012345"
+  }
+]
